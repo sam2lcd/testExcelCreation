@@ -15,12 +15,9 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 //say version here
-//Version 0.0.1 -- github change...
+//Version 0.0.2 -- github change -> deleted some comments
 
-/////also trying out github here - and after first commit
-//another small change
-//more change - last commit
-//I want a different version again ...
+
 //to install in nuget package manager console: Install-Package EPPlus
 using OfficeOpenXml;
 using OfficeOpenXml.Drawing.Chart;
