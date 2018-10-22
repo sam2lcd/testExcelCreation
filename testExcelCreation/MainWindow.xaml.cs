@@ -14,8 +14,13 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-/////also trying out github here
+//say version here
+//Version 0.0.1 -- github change...
 
+/////also trying out github here - and after first commit
+//another small change
+//more change - last commit
+//I want a different version again ...
 //to install in nuget package manager console: Install-Package EPPlus
 using OfficeOpenXml;
 using OfficeOpenXml.Drawing.Chart;
